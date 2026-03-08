@@ -1,4 +1,4 @@
-# A*, A-Priori Algorithm using Python
+# A*, A-Priori, and Genetic Algorithm using Python
 
 ## A* Algorithm
 ### Example 1:
@@ -23,3 +23,14 @@ For `example2.py`, I have 8 transactions with different items and set the minimu
 ![A-Priori Example 2](./a_priori/a_priori_example2_a.png)
 
 ![A-Priori Example 2](./a_priori/a_priori_example2_b.png)
+
+## Genetic Algorithm - Evolution Inspired
+### Example 1:
+For the first example, I used GA for solving the Travelling Salesman Problem. Here is the result:
+
+![Genetic Algorithm Example 1](./genetic_algo/genetic_example1.png)
+
+### Example 2:
+For second example, I implemented GA for a simple password guesser with 36 characters including alphanumeric symbols. Here is the result:
+
+![Genetic Algorithm Example 2](./genetic_algo/genetic_example2.png)
